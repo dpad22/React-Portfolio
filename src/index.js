@@ -4,7 +4,7 @@ import ReactDOM from 'react-dom';
 import {BrowserRouter, Route, Switch, NavLink} from 'react-router-dom';
 import './index.css';
 
-import Layout from './components/Layout.js';
+// import Layout from './components/Layout.js';
 import Home from './components/Home.js';
 import About from './components/About.js';
 import Projects from './components/Projects.js';
