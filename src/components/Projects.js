@@ -1,12 +1,6 @@
 import React, { Component } from 'react';
 import '../styles/Projects.css'
 
-import { FontAwesomeIcon } from 'react-fontawesome';
-import { faAngular, faNodeJs } from '@fortawesome/free-brands-svg-icons'
-
-
-
-
 class Projects extends Component{
     render(){
         return(
