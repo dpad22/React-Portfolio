@@ -53,7 +53,7 @@ class Projects extends Component{
                     </div>
                     <div className="col">
                         
-                            <p className="link"> <a href="https://dpadilla-portfolio-v1.netlify.app/">Portfolio</a> | <a href="https://github.com/dpad22/React/tree/master/portfolio">GitHub</a></p>
+                            <p className="link"> <a href="https://dpadilla-portfolio-v1.netlify.app/">Portfolio</a> | <a href="https://github.com/dpad22/React/tree/master/portfolio">See the code on GitHub</a></p>
                             <p className="content-proj">The portfolio project was created with React, JavaScript, HTML and CSS. React-router managed all the app routing. To serve as a live project with consistant updates as more projects are completed and ready to share. Showcases some basic to intermediate design proficiency. </p>
 
                             <i className="fab fa-react">React</i>
