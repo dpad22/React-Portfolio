@@ -1,6 +1,6 @@
 .center {
     text-align: center;
-    color: rgb(99, 121, 245);
+    color: antiquewhite;
 
 }
 
@@ -19,9 +19,7 @@ h3{
     color: antiquewhite;
 }
 
-a{
-    color:rgb(99, 121, 245);;
-}
+
 
 html{
     background: url(https://images.pexels.com/photos/1933239/pexels-photo-1933239.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500);
