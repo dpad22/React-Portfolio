@@ -1,5 +1,7 @@
 import React, { Component } from 'react';
 import '../styles/About.css';
+import Pdf from '../Resume/Resume.pdf';
+
 
 
 class About extends Component {
@@ -21,7 +23,10 @@ class About extends Component {
                 </div>
                 <div id="right">
                     <p className="content">Hello, my name is David Padilla. I am a full stack web developer with a passion for creativity, gaming, sports, and Science Fiction.</p>
-                    <p className="content">I am seeking positions as a front-end developer in the Dallas area. I have experience with React, MEAN, Ruby on Rails, and Python.</p>
+                    <p className="content">I am seeking positions as a front-end developer in the Dallas area. I have experience with React, Angular, Python, and Ruby on Rails. </p>
+
+                    <a className="resume" href ={Pdf}>Review my Resume</a>
+
                     <div>
                         <ul className="list">
                             <p className="content2">Experience</p>

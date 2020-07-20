@@ -3,6 +3,18 @@
     justify-content: center;
     vertical-align: top;
 }
+
+.resume {
+    color: antiquewhite;
+    vertical-align: top;
+    text-decoration: underline;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bolder;
+    margin-right: 20%;
+
+    
+}
 .row{
     display: flex;
     align-items: center;
@@ -82,5 +94,5 @@ img{
 li {
     color: lightskyblue;
     font-size: large;
-    font-weight: bolder;
+
 }
