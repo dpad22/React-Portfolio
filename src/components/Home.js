@@ -10,7 +10,6 @@ class Home extends Component {
                 <h1 className="header">David Padilla</h1>
                 <div id="content">
                     <h3>Full Stack Developer | Father | Husband | Gamer</h3>
-                    <h5>Welcome to my portfolio. </h5>
                 </div>
             </div>
         )

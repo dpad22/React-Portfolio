@@ -14,7 +14,7 @@ class Projects extends Component{
                     </div>
                     <div className="col">
                         
-                            <p className="link"> <a href="https://ti4app.herokuapp.com/">View live app</a> | <a href="https://github.com/dpad22/Twilight_app/tree/new-twilight_v2">View code</a></p>
+                            <p className="link"> <a href="https://ti4app.herokuapp.com/" target="_blank" rel="noopener noreferrer">View live app</a> | <a href="https://github.com/dpad22/Twilight_app/tree/new-twilight_v2" target="_blank" rel="noopener noreferrer">View code</a></p>
                             <p className="content-proj">TI4 Companion is a full stack Angular and Node.js web app that users can view detailed information about each playable faction of Twilight Imperium IV. Designed as an interactive tool for players to reference all relevant faction information as they play. Utilized mongoDB and Express for the backend server and database.</p>
 
                             <i className="fab fa-angular">Angular</i>
@@ -35,7 +35,7 @@ class Projects extends Component{
                     </div>
                     <div className="col">
                         
-                            <p className="link"> <a href="https://league-champions-app.herokuapp.com/">View live app</a> | <a href="https://github.com/dpad22/Python_LoL_App">View code</a></p>
+                            <p className="link"> <a href="https://league-champions-app.herokuapp.com/" target="_blank" rel="noopener noreferrer">View live app</a> | <a href="https://github.com/dpad22/Python_LoL_App" target="_blank" rel="noopener noreferrer">View code</a></p>
                             <p className="content-proj">Full-stack web app utilizing Python and Django to create a League of Legends Champion statistics website complete with user login/registration, favorite user champion tracking, and detailed champion information. Utilized Django and MySQL.</p>
 
                             <i class="fab fa-python">Python</i>
@@ -56,7 +56,7 @@ class Projects extends Component{
                     </div>
                     <div className="col">
                         
-                            <p className="link"> <a href="https://dpadilla-portfolio-v1.netlify.app/">View live app</a> | <a href="https://github.com/dpad22/React/tree/master/portfolio">View code</a></p>
+                            <p className="link"> <a href="https://dpadilla-portfolio-v1.netlify.app/" target="_blank" rel="noopener noreferrer">View live app</a> | <a href="https://github.com/dpad22/React/tree/master/portfolio" target="_blank" rel="noopener noreferrer">View code</a></p>
                             <p className="content-proj">The portfolio project was created with React, JavaScript, HTML and CSS. React-router managed all the app routing. To serve as a live project with consistant updates as more projects are completed and ready to share. Showcases some basic to intermediate design proficiency. </p>
 
                             <i className="fab fa-react">React</i>

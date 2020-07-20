@@ -25,7 +25,7 @@ class About extends Component {
                     <p className="content">Hello, my name is David Padilla. I am a full stack web developer with a passion for creativity, gaming, sports, and Science Fiction.</p>
                     <p className="content">I am seeking positions as a front-end developer in the Dallas area. I have experience with React, Angular, Python, and Ruby on Rails. </p>
 
-                    <a className="resume" href ={Pdf}>Review my Resume</a>
+                    <a className="resume" href={Pdf} target="_blank" rel="noopener noreferrer">Review my Resume</a>
 
                     <div>
                         <ul className="list">
