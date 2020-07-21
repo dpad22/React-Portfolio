@@ -54,16 +54,22 @@ i {
     font-weight: bolder;
 }
 
+/* -------------------------------------- */
+
 @media screen and (max-width: 600px){
+
+
+
+
 
     .flex-container {
         color: antiquewhite;
         vertical-align: top;
         justify-content: center;
         text-align: center;
-        display: flex;
+        /* display: flex;
         flex-wrap: wrap;
-        
+         */
     }
     
     .flex-grid{
@@ -74,12 +80,13 @@ i {
         margin-top: 20px;
         opacity: .9;
         width: 100%;
+        flex-direction: column;
     
     }
     
     .col{
         display: inline;
-        padding: 2px;
+        padding: 5px;
         margin: auto;
         justify-content: center;
     
@@ -105,7 +112,7 @@ i {
         margin: 0;
     }
     i {
-        padding: 5px;
+        padding: 10px;
         color: lightskyblue;
         font-size: large;
         font-weight: bolder;
